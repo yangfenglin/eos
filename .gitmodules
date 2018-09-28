@@ -27,3 +27,6 @@
 [submodule "libraries/wabt"]
 	path = libraries/wabt
 	url = http://github.com/EOSIO/wabt
+[submodule "libraries/fc_module"]
+	path = libraries/fc/
+	url = https://github.com/yangfenglin/fc_module.git
